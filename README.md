@@ -6,7 +6,7 @@
   </div>
 
 
-# NOVALYTICS-BOT 🤖
+# BOT DE DESCARGA DE AUDIOS 🤖
 
 Sistema de automatización y monitoreo para análisis de datos con Playwright y Python.
 
