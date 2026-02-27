@@ -6,7 +6,7 @@
   </div>
 
 
-# BOT DE DESCARGA DE AUDIOS 🤖
+# BOT DE MONITOREO WEB 🤖
 
 Sistema de automatización y monitoreo para análisis de datos con Playwright y Python.
 
