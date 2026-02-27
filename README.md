@@ -6,7 +6,7 @@
   </div>
 
 
-# BOT DE MONITOREO WEB 🤖
+# BOT DE NOVALITYCS 🤖
 
 Sistema de automatización y monitoreo para análisis de datos con Playwright y Python.
 
